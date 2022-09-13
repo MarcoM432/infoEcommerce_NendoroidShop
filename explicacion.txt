@@ -1,0 +1,5 @@
+La pagina WEB consiste en una pagina de informacion acerca de los figuras nendoroid de la franquicia Naruto
+Como tal varios botones no dirigen a nada, solo estan ilustrativos, aunque todas las paginas estan conectadas con la pagina Menu.html
+Dejo aqui el link a la pagina subida al servidor:
+
+https://nendoroidshopmx.000webhostapp.com/

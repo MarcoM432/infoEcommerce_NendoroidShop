@@ -1,0 +1,104 @@
+.pagina {
+    height: 100vh;
+    display: flex;
+  }
+  
+  .imagendefondo {
+    max-width: 50%;
+    width: 50%;
+    background-image: url("../Img/fondonaruto.jpg");
+    background-size: cover;
+    background-position: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .box {
+    display: flex;
+    max-width: 50%;
+    width: 50%;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    padding: 60px;
+    background-image: url("../Img/konoha.jpg");
+    background-position: right;
+    background-size: cover;
+  }
+  
+  .title {
+    font-size: 72px;
+    font-weight: 800;
+    margin-top: 10px;
+    font-family: "Prompt", sans-serif;
+  }
+  
+  .subtitle {
+    font-size: 19px;
+    font-weight: 800px;
+    margin-top: 10px;
+    font-family: "Prompt", sans-serif;
+  }
+  
+  .buttonGoogle {
+    font-weight: 900 !important;
+    margin-top: 150px;
+  }
+  
+  .button {
+    width: 375px;
+    font-weight: 700;
+    border-radius: 30px;
+  }
+  
+  .buttonApple {
+    margin-top: 20px;
+    font-weight: 900 !important;
+  }
+  
+  .or {
+    display: flex;
+    align-items: center;
+  }
+  
+  .line1 {
+    height: 1px;
+    background-color: gray;
+    width: 170px;
+    margin-top: 10px;
+  }
+  
+  .orIn {
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  
+  .linea2 {
+    height: 1px;
+    background-color: gray;
+    width: 170px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  
+  .email {
+    width: 375px;
+  }
+  
+  .Already {
+    font-size: 25px;
+    margin-top: 60px;
+    font-weight: 900;
+  }
+  
+  .account2 {
+    width: 375px;
+    margin-top: 20px;
+  }
+  
+  .Getin {
+    margin-top: 40px;
+    font-weight: 900;
+    font-size: 25px;
+  }
